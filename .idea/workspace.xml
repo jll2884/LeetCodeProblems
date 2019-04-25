@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01997d3f-1f0b-45fd-9518-383bdf397b53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EasyMode/Sqrt(x).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MediumMode/GroupAnagrams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyMode/PlusOne.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,44 +23,36 @@
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="21" />
+          <entry key="js" value="22" />
           <entry key="js___jb_tmp___" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="21" />
+          <entry key="JavaScript" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="3760" />
+          <entry key="js" value="4190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="3760" />
+          <entry key="JavaScript" value="4190" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyMode/Word_Pattern.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyMode/Fizz_Buzz.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +98,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MediumMode/GroupAnagrams.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="322">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyMode/PlusOne.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="12" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -172,6 +172,7 @@
         <option value="$PROJECT_DIR$/MediumMode/SingleElementInSortedArray.js" />
         <option value="$PROJECT_DIR$/EasyMode/Sqrt(x).js" />
         <option value="$PROJECT_DIR$/MediumMode/GroupAnagrams.js" />
+        <option value="$PROJECT_DIR$/EasyMode/PlusOne.js" />
       </list>
     </option>
   </component>
@@ -204,11 +205,6 @@
               <item name="LeetCodeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="EasyMode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCodeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="MediumMode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -239,8 +235,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.GroupAnagrams.js">
+  <component name="RunManager" selected="Node.js.PlusOne.js">
     <configuration name="GroupAnagrams.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="GroupAnagrams.js" working-dir="$PROJECT_DIR$/MediumMode">
+      <method v="2" />
+    </configuration>
+    <configuration name="PlusOne.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="PlusOne.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
     <configuration name="SingleElementInSortedArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="SingleElementInSortedArray.js" working-dir="$PROJECT_DIR$/MediumMode">
@@ -252,23 +251,20 @@
     <configuration name="Third_Max_Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Third_Max_Number.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
-    <configuration name="ValidPalindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="ValidPalindrome.js" working-dir="$PROJECT_DIR$/EasyMode">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Node.js.ValidPalindrome.js" />
       <item itemvalue="Node.js.Third_Max_Number.js" />
       <item itemvalue="Node.js.SingleElementInSortedArray.js" />
       <item itemvalue="Node.js.Sqrt(x).js" />
       <item itemvalue="Node.js.GroupAnagrams.js" />
+      <item itemvalue="Node.js.PlusOne.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.PlusOne.js" />
         <item itemvalue="Node.js.GroupAnagrams.js" />
         <item itemvalue="Node.js.Sqrt(x).js" />
         <item itemvalue="Node.js.SingleElementInSortedArray.js" />
         <item itemvalue="Node.js.Third_Max_Number.js" />
-        <item itemvalue="Node.js.ValidPalindrome.js" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +284,13 @@
       <workItem from="1555260318132" duration="7806000" />
       <workItem from="1555454737516" duration="977000" />
       <workItem from="1556026731491" duration="3459000" />
-      <workItem from="1556113540664" duration="4898000" />
+      <workItem from="1556113540664" duration="6148000" />
+      <workItem from="1556199490189" duration="4703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30691000" />
+    <option name="totallyTimeSpent" value="36644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -390,24 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EasyMode/Buddy_Strings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyMode/ReverseInteger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MediumMode/SingleElementInSortedArray.js">
+    <entry file="file://$PROJECT_DIR$/EasyMode/Missing_Number.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -418,10 +401,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EasyMode/Missing_Number.js">
+    <entry file="file://$PROJECT_DIR$/MediumMode/SingleElementInSortedArray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -439,10 +422,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EasyMode/Buddy_Strings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyMode/ReverseInteger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MediumMode/GroupAnagrams.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="322">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyMode/PlusOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>
