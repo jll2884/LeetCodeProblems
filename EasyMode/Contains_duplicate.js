@@ -10,3 +10,6 @@ var containsDuplicate = function(nums) {
     return true
 };
 console.log(containsDuplicate([1,2,2]));
+
+
+let l = []
