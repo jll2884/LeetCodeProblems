@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01997d3f-1f0b-45fd-9518-383bdf397b53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EasyMode/MonotonicArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyMode/UncommonWords.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,25 +31,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="66" />
+          <entry key="js" value="67" />
           <entry key="js___jb_tmp___" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="66" />
+          <entry key="JavaScript" value="67" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="9616" />
+          <entry key="js" value="9750" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="9616" />
+          <entry key="JavaScript" value="9750" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -93,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyMode/MonotonicArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="115">
+              <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyMode/UncommonWords.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -134,15 +143,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EasyMode/CountPrimes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -192,6 +192,7 @@
         <option value="$PROJECT_DIR$/EasyMode/FibonacciNumbers.js" />
         <option value="$PROJECT_DIR$/EasyMode/DivisorGame.js" />
         <option value="$PROJECT_DIR$/EasyMode/MonotonicArray.js" />
+        <option value="$PROJECT_DIR$/EasyMode/UncommonWords.js" />
       </list>
     </option>
   </component>
@@ -244,7 +245,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quotes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
@@ -266,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.MonotonicArray.js">
+  <component name="RunManager" selected="Node.js.UncommonWords.js">
     <configuration name="CountPrimes.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="CountPrimes.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
@@ -279,23 +280,23 @@
     <configuration name="SquaresOfSortedArrays.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="SquaresOfSortedArrays.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
-    <configuration name="first_uniqueChar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="first_uniqueChar.js" working-dir="$PROJECT_DIR$/EasyMode">
+    <configuration name="UncommonWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="UncommonWords.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.first_uniqueChar.js" />
       <item itemvalue="Node.js.SortArrayByParity.js" />
       <item itemvalue="Node.js.CountPrimes.js" />
       <item itemvalue="Node.js.SquaresOfSortedArrays.js" />
       <item itemvalue="Node.js.MonotonicArray.js" />
+      <item itemvalue="Node.js.UncommonWords.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.UncommonWords.js" />
         <item itemvalue="Node.js.MonotonicArray.js" />
         <item itemvalue="Node.js.SquaresOfSortedArrays.js" />
         <item itemvalue="Node.js.CountPrimes.js" />
         <item itemvalue="Node.js.SortArrayByParity.js" />
-        <item itemvalue="Node.js.first_uniqueChar.js" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +321,7 @@
       <workItem from="1556493240615" duration="19261000" />
       <workItem from="1557764172671" duration="3464000" />
       <workItem from="1558019024391" duration="4010000" />
-      <workItem from="1558571125450" duration="10869000" />
+      <workItem from="1558571125450" duration="13344000" />
     </task>
     <task id="LOCAL-00001" summary="new problems">
       <created>1558575997470</created>
@@ -350,11 +351,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558729595555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new problems">
+      <created>1558733256178</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558733256178</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78702000" />
+    <option name="totallyTimeSpent" value="81177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -665,8 +673,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyMode/MonotonicArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="115">
+          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyMode/UncommonWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
