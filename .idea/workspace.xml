@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01997d3f-1f0b-45fd-9518-383bdf397b53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EasyMode/FlippingImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NRepeatElements.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyMode/FlippingImage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="68">
+              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NRepeatElements.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -100,6 +109,7 @@
         <option value="$PROJECT_DIR$/EasyMode/UncommonWords.js" />
         <option value="$PROJECT_DIR$/EasyMode/IntersectOfTwoArrays.js" />
         <option value="$PROJECT_DIR$/EasyMode/FlippingImage.js" />
+        <option value="$PROJECT_DIR$/NRepeatElements.js" />
       </list>
     </option>
   </component>
@@ -165,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.FlippingImage.js">
+  <component name="RunManager" selected="Node.js.NRepeatElements.js">
     <configuration name="FlippingImage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="FlippingImage.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
@@ -175,7 +185,7 @@
     <configuration name="MonotonicArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="MonotonicArray.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
-    <configuration name="SquaresOfSortedArrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="SquaresOfSortedArrays.js" working-dir="$PROJECT_DIR$/EasyMode">
+    <configuration name="NRepeatElements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="NRepeatElements.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="UncommonWords.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="UncommonWords.js" working-dir="$PROJECT_DIR$/EasyMode">
@@ -184,17 +194,17 @@
     <list>
       <item itemvalue="Node.js.IntersectOfTwoArrays.js" />
       <item itemvalue="Node.js.MonotonicArray.js" />
-      <item itemvalue="Node.js.SquaresOfSortedArrays.js" />
       <item itemvalue="Node.js.UncommonWords.js" />
       <item itemvalue="Node.js.FlippingImage.js" />
+      <item itemvalue="Node.js.NRepeatElements.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.NRepeatElements.js" />
         <item itemvalue="Node.js.FlippingImage.js" />
         <item itemvalue="Node.js.IntersectOfTwoArrays.js" />
         <item itemvalue="Node.js.UncommonWords.js" />
         <item itemvalue="Node.js.MonotonicArray.js" />
-        <item itemvalue="Node.js.SquaresOfSortedArrays.js" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +235,7 @@
       <workItem from="1559155171865" duration="16000" />
       <workItem from="1559170291304" duration="1863000" />
       <workItem from="1560200284889" duration="599000" />
-      <workItem from="1560440268982" duration="1779000" />
+      <workItem from="1560440268982" duration="2812000" />
     </task>
     <task id="LOCAL-00001" summary="new problems">
       <created>1558575997470</created>
@@ -276,11 +286,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559154224798</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new problems">
+      <created>1560442118764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560442118765</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87263000" />
+    <option name="totallyTimeSpent" value="88296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
@@ -623,8 +640,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyMode/FlippingImage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NRepeatElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
     </entry>
