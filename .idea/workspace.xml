@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01997d3f-1f0b-45fd-9518-383bdf397b53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EasyMode/LongestConsecutive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyMode/try.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyMode/LengthOfLastword.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,19 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MediumMode/KLargestElementinArray.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyMode/Buddy_Strings.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -62,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EasyMode/LongestConsecutive.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EasyMode/LengthOfLastword.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -161,6 +160,7 @@
         <option value="$PROJECT_DIR$/MediumMode/KLargestElementinArray.js" />
         <option value="$PROJECT_DIR$/EasyMode/try.js" />
         <option value="$PROJECT_DIR$/EasyMode/LongestConsecutive.js" />
+        <option value="$PROJECT_DIR$/EasyMode/LengthOfLastword.js" />
       </list>
     </option>
   </component>
@@ -182,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,14 +231,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.LongestConsecutive.js">
+  <component name="RunManager" selected="Node.js.LengthOfLastword.js">
     <configuration name="KLargestElementinArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="KLargestElementinArray.js" working-dir="$PROJECT_DIR$/MediumMode">
       <method v="2" />
     </configuration>
-    <configuration name="LongestConsecutive.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="LongestConsecutive.js" working-dir="$PROJECT_DIR$/EasyMode">
+    <configuration name="LengthOfLastword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="LengthOfLastword.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
-    <configuration name="NRepeatElements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="NRepeatElements.js" working-dir="$PROJECT_DIR$">
+    <configuration name="LongestConsecutive.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="LongestConsecutive.js" working-dir="$PROJECT_DIR$/EasyMode">
       <method v="2" />
     </configuration>
     <configuration name="PowerOfFour.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="PowerOfFour.js" working-dir="$PROJECT_DIR$/EasyMode">
@@ -248,19 +248,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.NRepeatElements.js" />
       <item itemvalue="Node.js.PowerOfFour.js" />
       <item itemvalue="Node.js.KLargestElementinArray.js" />
       <item itemvalue="Node.js.try.js" />
       <item itemvalue="Node.js.LongestConsecutive.js" />
+      <item itemvalue="Node.js.LengthOfLastword.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.LengthOfLastword.js" />
         <item itemvalue="Node.js.LongestConsecutive.js" />
         <item itemvalue="Node.js.try.js" />
         <item itemvalue="Node.js.KLargestElementinArray.js" />
         <item itemvalue="Node.js.PowerOfFour.js" />
-        <item itemvalue="Node.js.NRepeatElements.js" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +293,8 @@
       <workItem from="1560200284889" duration="599000" />
       <workItem from="1560440268982" duration="8876000" />
       <workItem from="1560963080976" duration="485000" />
-      <workItem from="1560966081940" duration="2667000" />
+      <workItem from="1560966081940" duration="3163000" />
+      <workItem from="1561402372757" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="new problems">
       <created>1558575997470</created>
@@ -379,17 +380,24 @@
       <option name="project" value="LOCAL" />
       <updated>1560885071288</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="new problems">
+      <created>1560986395031</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560986395031</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97512000" />
+    <option name="totallyTimeSpent" value="98275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26488096" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26339287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -496,7 +504,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/EasyMode/LongestConsecutive.js</url>
           <line>27</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
@@ -711,14 +718,14 @@
     <entry file="file://$PROJECT_DIR$/MediumMode/KLargestElementinArray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyMode/Buddy_Strings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -726,6 +733,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyMode/FibonacciNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyMode/try.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -757,24 +778,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EasyMode/FibonacciNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyMode/try.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EasyMode/LongestConsecutive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyMode/LengthOfLastword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
